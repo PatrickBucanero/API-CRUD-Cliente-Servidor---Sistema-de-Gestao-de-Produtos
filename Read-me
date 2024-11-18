@@ -1,0 +1,60 @@
+
+Título do Projeto: API CRUD Cliente-Servidor - Sistema de Gestão de Produtos
+Descrição
+Este projeto é uma aplicação cliente-servidor construída em ASP.NET Core com integração ao Entity Framework e banco de dados SQLite. A solução inclui uma API Web que suporta operações CRUD (Create, Read, Update, Delete) para gerenciar produtos, além de uma aplicação cliente desktop para consumo da API. Foi desenvolvida com foco em segurança, utilizando JWT (JSON Web Tokens) para autenticação e API Keys para autorização.
+
+ProjetoooAPI2/
+├── API/
+│   ├── Controllers/
+│   ├── Models/
+│   ├── Data/
+│   ├── appsettings.json
+│   └── Startup.cs
+├── Desktop/
+│   ├── Forms/
+│   ├── Program.cs
+│   └── App.config
+└── README.md
+
+
+Funcionalidades
+API
+Autenticação JWT: Requer token para acesso às rotas protegidas.
+Autorização por API Key: Adicional camada de segurança para operações sensíveis.
+CRUD de Produtos: Gerenciamento de produtos via métodos HTTP.
+GET /product: Retorna todos os produtos.
+POST /product: Adiciona um novo produto.
+PUT /product/{id}: Atualiza informações de um produto.
+DELETE /product/{id}: Exclui um produto específico.
+Aplicação Cliente (Desktop)
+Consumo da API: Interface gráfica para interagir com a API.
+Operações CRUD:
+Visualizar lista de produtos.
+Adicionar novos produtos.
+Editar produtos existentes.
+Excluir produtos via ID.
+Feedback ao usuário: Mensagens claras para ações bem-sucedidas ou falhas.
+Estrutura do Projeto
+Backend (API)
+Camadas e Configurações
+Controllers: Lida com as rotas HTTP e lógica de negócios.
+Models: Define as entidades, como Produto.
+DbContext: Conecta a aplicação ao banco SQLite.
+Middleware: Configurado para autenticação e autorização.
+Pacotes e Dependências
+ASP.NET Core: Framework base para a API.
+Entity Framework Core: ORM para manipulação de dados.
+SQLite: Banco de dados leve e integrado.
+JWT Authentication: Implementação de segurança.
+Frontend (Aplicação Desktop)
+Tecnologia: Desenvolvido em Windows Forms com C#.
+Estrutura de Consumo
+HttpClient: Utilizado para realizar requisições HTTP.
+Interface gráfica: Simples e intuitiva para usuários.
+Validadores: Garantem entrada de dados correta.
+Como Executar o Projeto
+Pré-requisitos
+.NET SDK instalado (versão compatível com o projeto).
+Visual Studio ou editor de sua preferência.
+SQLite instalado para depuração opcional do banco.
+(Opcional) Postman para testar endpoints da API.
