@@ -1,0 +1,705 @@
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.AssemblyReference.cache
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfoInputs.cache
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfo.cs
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.CoreCompileInputs.cache
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.exe
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.deps.json
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.runtimeconfig.json
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoooAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoooAPI.props
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoooAPI.props
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoooAPI.props
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\scopedcss\bundle\ProjetoooAPI.styles.css
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\Projetoo.256C0039.Up2Date
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\refint\ProjetoooAPI.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.genruntimeconfig.cache
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ref\ProjetoooAPI.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maril\source\repos\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.exe
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.deps.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.runtimeconfig.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.AssemblyReference.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfoInputs.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfo.cs
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoooAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoooAPI.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoooAPI.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoooAPI.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\scopedcss\bundle\ProjetoooAPI.styles.css
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\Projetoo.256C0039.Up2Date
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\refint\ProjetoooAPI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.genruntimeconfig.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ref\ProjetoooAPI.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.exe
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.deps.json
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.runtimeconfig.json
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.AssemblyReference.cache
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfoInputs.cache
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfo.cs
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.CoreCompileInputs.cache
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoooAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoooAPI.props
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoooAPI.props
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoooAPI.props
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\scopedcss\bundle\ProjetoooAPI.styles.css
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\Projetoo.256C0039.Up2Date
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\refint\ProjetoooAPI.dll
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.genruntimeconfig.cache
+C:\Users\maril\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ref\ProjetoooAPI.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.exe
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.deps.json
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.runtimeconfig.json
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoooAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoooAPI.props
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoooAPI.props
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoooAPI.props
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\scopedcss\bundle\ProjetoooAPI.styles.css
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\Projetoo.256C0039.Up2Date
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\refint\ProjetoooAPI.dll
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.genruntimeconfig.cache
+C:\Users\unisanta\Desktop\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ref\ProjetoooAPI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.exe
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.deps.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.runtimeconfig.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.AssemblyReference.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfoInputs.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.AssemblyInfo.cs
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoooAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoooAPI.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoooAPI.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoooAPI.props
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\scopedcss\bundle\ProjetoooAPI.styles.css
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\Projetoo.256C0039.Up2Date
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\refint\ProjetoooAPI.dll
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.pdb
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ProjetoooAPI.genruntimeconfig.cache
+C:\Users\Patrick\OneDrive\Área de Trabalho\ProjetoooAPI2\ProjetoooAPI\ProjetoooAPI\obj\Debug\net8.0\ref\ProjetoooAPI.dll
